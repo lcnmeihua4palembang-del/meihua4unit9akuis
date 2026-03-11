@@ -1,0 +1,1 @@
+(function(){var loadHandler=window['sl_{FB2C5CC9-23C9-4D39-9710-EF65D144DB6A}'];loadHandler&&loadHandler(0, '<div id="spr0_2c1297"><div id="spr1_2c1297" class="kern slide"><img id="img0_2c1297" src="data/img0.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_2c1297" class="kern slide"><div id="wo_0_0"></div></div></div>', '{"s":[]}');})();
